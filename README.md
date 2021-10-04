@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @MYISNNQ
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫如何联系我...
+我是@MyisNNQ
+我对JAVA JUnit PHP C语言有兴趣
+我现在一个正在x学习
+我的联系方式方式是1451420501
+<!---
+MYISNNQ/MYISNNQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
